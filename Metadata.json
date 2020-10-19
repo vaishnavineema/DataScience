@@ -1,0 +1,47 @@
+[
+    {
+        "Columns": "Timestamp",
+        "Datatype": "Timestamp",
+        "Values": ""
+    },
+    {
+        "Columns": "Which beverage do you usually prefer on campus?",
+        "Datatype": "Varchar",
+        "Values": "Tea, Coffee, Milk, Smoothie, Hot Chocolate, Lemonade, Fizzy, Beverage, Fresh Juice, Others"
+    },
+    {
+        "Columns": "If you chose \"Others\" as an answer to the above question, please specify the name of the beverage",
+        "Datatype": "Varchar",
+        "Values": ""
+    },
+    {
+        "Columns": "How many times do you drink these beverages?",
+        "Datatype": "Varchar",
+        "Values": "Once daily, Twice daily, More than twice daily, Once weekly, Twice weekly, More than twice weekly, Not that often"
+    },
+    {
+        "Columns": "What is your age group?",
+        "Datatype": "Varchar",
+        "Values": "<18, 18-25, 26-35, 36-45, 46-55, 56-65, >65"
+    },
+    {
+        "Columns": "What is your favorite beverage brand? Use commas to separate multiple names.",
+        "Datatype": "Varchar",
+        "Values": ""
+    },
+    {
+        "Columns": "What is the maximum price you are willing to pay for a single beverage on a daily basis?",
+        "Datatype": "Varchar",
+        "Values": "< $ 3.00, $ 3.00 - 5.00, $ 5.00 - 7.00, $ 7.00 - 10.00, $ 10.00 - 15.00, > $ 15.00"
+    },
+    {
+        "Columns": "What do you usually prefer to eat with your choice of beverage?",
+        "Datatype": "Varchar",
+        "Values": "Donuts, Scones, Muffins, CakeSandwich, Bagel, Salad, Others, Nothing"
+    },
+    {
+        "Columns": "If you chose \"Others\" as an answer to the above question, please specify the name of the accompaniment",
+        "Datatype": "Varchar",
+        "Values": ""
+    }
+]
